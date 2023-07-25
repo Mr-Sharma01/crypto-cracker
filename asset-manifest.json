@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crypto-cracker/static/css/main.deb4d580.chunk.css",
+    "main.js": "/crypto-cracker/static/js/main.7ae13f97.chunk.js",
+    "main.js.map": "/crypto-cracker/static/js/main.7ae13f97.chunk.js.map",
+    "runtime-main.js": "/crypto-cracker/static/js/runtime-main.89e19a43.js",
+    "runtime-main.js.map": "/crypto-cracker/static/js/runtime-main.89e19a43.js.map",
+    "static/css/2.cf22a21b.chunk.css": "/crypto-cracker/static/css/2.cf22a21b.chunk.css",
+    "static/js/2.b5fa1feb.chunk.js": "/crypto-cracker/static/js/2.b5fa1feb.chunk.js",
+    "static/js/2.b5fa1feb.chunk.js.map": "/crypto-cracker/static/js/2.b5fa1feb.chunk.js.map",
+    "index.html": "/crypto-cracker/index.html",
+    "static/css/2.cf22a21b.chunk.css.map": "/crypto-cracker/static/css/2.cf22a21b.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/crypto-cracker/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.b5fa1feb.chunk.js.LICENSE.txt": "/crypto-cracker/static/js/2.b5fa1feb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89e19a43.js",
+    "static/css/2.cf22a21b.chunk.css",
+    "static/js/2.b5fa1feb.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.7ae13f97.chunk.js"
+  ]
+}
